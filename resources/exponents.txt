@@ -1,0 +1,6 @@
+The value of p is: 47
+The value of q is: 41
+The value of fi is: 1840
+The value of n is: 1927
+The value of e is: 3
+The value of d is: 1227
